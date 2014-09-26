@@ -1,1 +1,3 @@
-Arquivo teste brabo.
+Primeiro arquivo de teste de commit, meus jovens. 
+
+Vamos que vamos!
